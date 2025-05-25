@@ -12,7 +12,7 @@
 
 ### 🛠 Tech I'm working with
 
-- Python • ☕ Java • Haskell / Racket (dabbling)
+- Python • Java • Haskell / Racket (dabbling)
 - Git & GitHub • VS Code • Markdown
 - Focused on backend systems, scripting, and clean architecture
 
