@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Roman 👋</h1>
+<h1 align="center">Hello world</h1>
 
 <p align="center">
-  Economics major • CS & Math minor • Aspiring Software Dev  
+  My name is Roman, I am a Universoty of Toronto Alumnus with a degree in CS, Math and Economics, an aspiring software dev.  
   <br/>
   Currently building my skills in <strong>Java</strong>, <strong>Python</strong>, and <strong>functional programming</strong>  
   <br/><br/>
