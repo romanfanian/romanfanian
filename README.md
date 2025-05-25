@@ -12,17 +12,17 @@
 
 ### 🛠 Tech I'm working with
 
-- 🐍 Python • ☕ Java • 🧮 Haskell / Racket (dabbling)
-- 🔧 Git & GitHub • VS Code • Markdown
-- 🧠 Focused on backend systems, scripting, and clean architecture
+- Python • ☕ Java • Haskell / Racket (dabbling)
+- Git & GitHub • VS Code • Markdown
+- Focused on backend systems, scripting, and clean architecture
 
 ---
 
 ### 📈 Stats & GitHub Candy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romanfanian&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanfanian&layout=compact&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=romanfanian&show_icons=true&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanfanian&layout=compact&theme=dark" height="165" />
 </p>
 
 ---
